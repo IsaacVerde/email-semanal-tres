@@ -4,7 +4,7 @@ Este projeto é um template de email marketing em HTML, desenhado para engajar u
 
 O template foi desenvolvido manualmente, seguindo as melhores práticas de email para garantir uma entrega visualmente consistente e profissional em todas as plataformas. Todo o conteúdo foi utilizado em uma campanha real, enviada para a minha lista de contatos.
 
-<img src=".ezgif-1d8ac43eeb93a5.gif" alt="Demonstração do Email" width="600">
+<img src="./ezgif-1d8ac43eeb93a5.gif" alt="Demonstração do Email" width="600">
 
 ## ✨ Destaques do Projeto
 
