@@ -6,8 +6,8 @@ O template foi desenvolvido manualmente, seguindo as melhores práticas de email
 
 ### [🔗 Veja o email em ação aqui](https://isaacverde.github.io/email-semanal-tres/)
 
-<a href="https://isaacverde.github.io/email-semanal-tres/" target="_blank">
-  <img src="https://res.cloudinary.com/db0ztiffv/image/upload/w_680/v1752772726/capa_email_3_bmmvgo.jpg" alt="Prévia do Template de Email com Menu">
+<a href="https://res.cloudinary.com/db0ztiffv/video/upload/v1753808617/giff_njuok4.mp4" target="_blank">
+  <img src="(https://res.cloudinary.com/db0ztiffv/video/upload/v1753808617/giff_njuok4.mp4)" alt="Demonstração do Email" width="600">
 </a>
 
 ## ✨ Destaques do Projeto
