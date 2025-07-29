@@ -4,7 +4,7 @@ Este projeto é um template de email marketing em HTML, desenhado para engajar u
 
 O template foi desenvolvido manualmente, seguindo as melhores práticas de email para garantir uma entrega visualmente consistente e profissional em todas as plataformas. Todo o conteúdo foi utilizado em uma campanha real, enviada para a minha lista de contatos.
 
-<video src="https://res.cloudinary.com/db0ztiffv/video/upload/v1753808617/giff_njuok4.mp4" width="600" autoplay loop muted playsinline>
+<video src="https://player.cloudinary.com/embed/?cloud_name=db0ztiffv&public_id=giff_njuok4&profile=cld-default" width="600" autoplay loop muted playsinline>
 </video>
 
 
