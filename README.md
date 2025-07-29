@@ -4,11 +4,9 @@ Este projeto é um template de email marketing em HTML, desenhado para engajar u
 
 O template foi desenvolvido manualmente, seguindo as melhores práticas de email para garantir uma entrega visualmente consistente e profissional em todas as plataformas. Todo o conteúdo foi utilizado em uma campanha real, enviada para a minha lista de contatos.
 
-### [🔗 Veja o email em ação aqui](https://isaacverde.github.io/email-semanal-tres/)
+<video src="https://res.cloudinary.com/db0ztiffv/video/upload/v1753808617/giff_njuok4.mp4" width="600" autoplay loop muted playsinline>
+</video>
 
-<a href="https://res.cloudinary.com/db0ztiffv/video/upload/v1753808617/giff_njuok4.mp4" target="_blank">
-  <img src="(https://res.cloudinary.com/db0ztiffv/video/upload/v1753808617/giff_njuok4.mp4)" alt="Demonstração do Email" width="600">
-</a>
 
 ## ✨ Destaques do Projeto
 
